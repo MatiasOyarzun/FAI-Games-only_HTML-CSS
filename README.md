@@ -1,4 +1,4 @@
-# FAI-Games
+# FAI-Games 💻
 
 Pagina para Laboratorio de Programacion hecha por Chavez Rodrigo & Oyarzun Matias. 
 
@@ -34,5 +34,3 @@ Pagina para Laboratorio de Programacion hecha por Chavez Rodrigo & Oyarzun Matia
 * Footer
   * Contacto
   * Copyright
-  
-  💻
